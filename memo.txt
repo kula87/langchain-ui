@@ -2,3 +2,8 @@ npx create-next-app@latest .
 
 
 npm run dev
+
+Install Tailwind CSS IntelliSer plugin 
+
+
+https://www.axa.co.jp/product/saving/ul-term/#features
